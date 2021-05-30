@@ -1,4 +1,4 @@
 mysql:
   url: dev-http://localhost:3306/lagou_resume_module
 lagou:
-  message: hello lagou,300
+  message: hello lagou,400
